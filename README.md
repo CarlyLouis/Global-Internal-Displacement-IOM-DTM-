@@ -6,6 +6,9 @@ Key takeaway: **Conflict remains the main driver of displacement globally**, and
 
 ---
 
+![IOM Global Internal Displacement Dashboard Screenshot](https://github.com/CarlyLouis/Global-Internal-Displacement-IOM-DTM-/blob/main/IOM%20Displacement%20Dashboard.png)
+
+
 ## 📁 Dataset Overview
 
 **Source:** `global-iom-dtm-from-api-admin-0-to-2.csv`  

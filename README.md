@@ -7,7 +7,7 @@ Key takeaway: **Conflict remains the main driver of displacement globally**, and
 ---
 
 ![IOM Global Internal Displacement Dashboard Screenshot](https://github.com/CarlyLouis/Global-Internal-Displacement-IOM-DTM-/blob/main/IOM%20Displacement%20Dashboard.png)
-[Project link to Tableau Public](https://public.tableau.com/views/IOM_17609224949540/IOMDisplacementDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Link to the Project Interactive Dashboard on Tableau Public](https://public.tableau.com/views/IOM_17609224949540/IOMDisplacementDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 

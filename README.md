@@ -2,11 +2,19 @@
 
 This project explores **global internal displacement trends** using publicly available data from the **International Organization for Migration (IOM) Displacement Tracking Matrix (DTM)**.  
 It aims to uncover how **conflicts** and **disasters** have affected populations across regions and time — with interactive visualizations and clear insights for humanitarian decision-making.
-Key takeaway: **Conflict remains the main driver of displacement globally**, and data visualization makes it easier to understand where and how these patterns evolve over time.
+
+Some key findings from the analysis include:
+
+- **Conflict remains the main driver of displacement globally**, and data visualization makes it easier to understand where and how these patterns evolve over time.
+- Certain countries consistently report the highest levels of internal displacement.
+- Conflict and natural disasters are major drivers of population movement.
+- Some regions experience persistent displacement patterns across multiple reporting periods.
 
 ---
 
 ![IOM Global Internal Displacement Dashboard Screenshot](https://github.com/CarlyLouis/Global-Internal-Displacement-IOM-DTM-/blob/main/IOM%20Displacement%20Dashboard.png)
+<br><br>
+
 [Link to the Project Interactive Dashboard on Tableau Public](https://public.tableau.com/views/IOM_17609224949540/IOMDisplacementDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
@@ -71,3 +79,16 @@ SELECT Year, Cause, SUM(Total_Displaced_Persons) AS Total_Displaced
 FROM iom_displacement
 GROUP BY Year, Cause
 ORDER BY Year;
+```
+---
+
+# Author
+
+**Carly Louis**
+
+Data Analyst | Data Engineering Enthusiast
+
+LinkedIn  
+www.linkedin.com/in/carly-louis-krlification
+
+---
